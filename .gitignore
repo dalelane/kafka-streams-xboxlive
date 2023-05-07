@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.settings/
+.project
+target/
+**/bin/
+**/build/
+my-plugins/
+app.properties
+connector.properties
+run.sh
+deploy/
